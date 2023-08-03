@@ -1,0 +1,22 @@
+/* Button.css */
+
+/* Style for the button */
+button {
+    background-color: #4CAF50; /* Green background color */
+    color: white; /* White text color */
+    padding: 10px 20px; /* Padding (top/bottom, left/right) */
+    font-size: 16px; /* Font size */
+    border: none; /* Remove border */
+    border-radius: 4px; /* Rounded corners */
+    cursor: pointer; /* Change cursor on hover */
+    transition: background-color 0.3s ease; /* Smooth transition on hover */
+  }
+  
+  /* Optional hover effect */
+  button:hover {
+    background-color: #45a049; /* Slightly darker green on hover */
+  }
+  
+  /* Optional additional styles */
+  /* Add more styles here if you want to further customize the button */
+  
